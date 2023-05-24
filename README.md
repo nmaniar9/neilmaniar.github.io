@@ -7,5 +7,5 @@ I am a detail-oriented business analyst skilled in extracting, cleaning, analyzi
 ### Projects
 
 ### Education
-MS in Applied Mathematics | DePaul University | Chicago, IL | 2023
+MS in Applied Mathematics | DePaul University | Chicago, IL | 2023[^1]
 BS in Economics | Purdue University | West Lafayette, IN | 2019
