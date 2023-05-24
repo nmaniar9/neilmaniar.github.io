@@ -29,6 +29,6 @@ CBD pantry is a direct-to-consumer ecommerce marketplace for hemp derived produc
 
 
 ## Education
-### MS in Applied Mathematics | DePaul University | Chicago, IL | 2023
+### MS in Applied Mathematics | DePaul University | 2023
 
-### BS in Economics | Purdue University | West Lafayette, IN | 2019
+### BS in Economics | Purdue University | 2019
