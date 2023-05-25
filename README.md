@@ -26,6 +26,7 @@ CBD pantry is a direct-to-consumer ecommerce marketplace for hemp derived produc
 ### [NBA Data Analysis](https://github.com/nmaniar9/NBA_Data_Analysis)
 
 ![image](https://github.com/nmaniar9/neilmaniar.github.io/assets/44175458/8d907593-3c73-411e-b351-2437ae5e81d4)
+
 The NBA has grown a lot since its creation in 1946 including the addition of new rules, new teams, and the use of advanced analytics. The goal of my data exploration is to understand how the changes have impacted the league and the players. I take a look at 4 data sets from 1950 – 2022 for player salaries, player career stats, player box scores, and team payrolls. I use the Python Pandas libraryh for data cleaning, exploration, and visualizations. I also use [Tableau Public](https://public.tableau.com/app/profile/neil.maniar/viz/NBAplayeroverview/Dashboard1) to create a dashboard for athletes
 
 ### Ecommerce Database and Analysis
