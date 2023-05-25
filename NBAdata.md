@@ -1,3 +1,3 @@
 layout: page
 title: "NBA Data"
-permalink: /URL-PATH
+permalink: /maniar9.github.io/neilmaniar.github.io/nbadata
