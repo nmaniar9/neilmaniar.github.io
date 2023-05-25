@@ -1,6 +1,8 @@
 title: Neil Maniar
 #logo: /assets
-description: Business analyst
-description: MS in Applied Mathematics | BS in Economics
-description: Excel | SQL | Tableau | Python
+description:
+  Business analyst
+  MS in Applied Mathematics | BS in Economics
+  Excel | SQL | Tableau | Python
 theme: jekyll-theme-minimal
+
