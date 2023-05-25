@@ -18,6 +18,7 @@ We can see that the number of three pointers have increased consistently each se
 If we look at the shot selections over the last 50 years we can see that approximately 30% of shots taken are 3 pointers. 3 pointers are one of the major factors contributing to the point increase along with new teams, and slightly longer seasons.
 
 Next lets take a look at the player level and how the league has changed for athletes. One of the biggest changes that can be seen in the salary increases. Looking at the total payroll (inflation adjusted) per season: 
+
 ![image](https://github.com/nmaniar9/neilmaniar.github.io/assets/44175458/13b8b71b-14aa-4f7c-97bc-4db1d6c9b180)
  
 The overall salaries have gone from 250 million to over 4 billion in the last 30 years. There are athletes in the NBA who have long term contracts worth more than total salaries of the 1990s. In the time period TV and broadcasting deals have contributed to the significant rise in pay.
