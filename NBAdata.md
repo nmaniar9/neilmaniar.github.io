@@ -1,7 +1,3 @@
-layout: page
-title: "NBA Data"
-permalink: /maniar9.github.io/neilmaniar.github.io/nbadata
-
 The NBA has grown a lot since its creation in 1946 including the addition of new rules, new teams, and the use of advanced analytics. The goal of my data exploration is to understand how the changes have impacted the league and the players. I take a look at 4 data sets from 1950 – 2022 for player salaries, player career stats, player box scores, and team payrolls. 
 First I explored the datasets using the Python Pandas library, exploring and cleaning the datasets gives us a good idea of what we are looking at. Taking a look at the box_score table : 
  ![image](https://github.com/nmaniar9/neilmaniar.github.io/assets/44175458/7e7bb0ad-bf65-4d95-94d7-7c4ce491a9d6)
