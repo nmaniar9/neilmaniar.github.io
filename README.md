@@ -23,7 +23,7 @@ CBD pantry is a direct-to-consumer ecommerce marketplace for hemp derived produc
 
 
 ## Projects
-### NBA Data Analysis
+### [NBA Data Analysis](https://github.com/nmaniar9/NBA_Data_Analysis)
 ### Ecommerce Database and Analysis
 
 
