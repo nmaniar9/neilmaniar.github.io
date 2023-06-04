@@ -36,7 +36,7 @@ The NBA has grown a lot since its creation in 1946 including the addition of new
 ### [Ecommerce Database and Analysis](https://github.com/nmaniar9/Ecom_projectv2)
 
 ![image](https://github.com/nmaniar9/neilmaniar.github.io/assets/44175458/6f377226-20c5-4d2c-b6bf-7bf2f0b5afe3)
-Taking a look at how an ecommerce database can be structured and used to perform analysis. I used Python to scrape lego.com and to create tables that are commonly found in ecommerce businesses. Next Used SQL Server to answer business case questions such as top sellers, revenue, and profit. I next used [Tableau Public](https://public.tableau.com/app/profile/neil.maniar/viz/EcommerceProject_16806687745870/LEGOSTARWARSSALES) to visualize the dataset. 
+Taking a look at how an ecommerce database can be structured and used to perform analysis. I used Python to scrape lego.com and to create tables that are commonly found in ecommerce businesses. Using SQL Server I answered business case questions such as top sellers, revenue, and profit. I next used [Tableau Public](https://public.tableau.com/app/profile/neil.maniar/viz/EcommerceProject_16806687745870/LEGOSTARWARSSALES) to visualize the dataset. 
 
 ## Education
 ### MS in Applied Mathematics | DePaul University | 2023
