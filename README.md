@@ -23,6 +23,11 @@ CBD pantry is a direct-to-consumer ecommerce marketplace for hemp derived produc
 
 
 ## Projects
+### [Loan Prediction Classifier](https://github.com/nmaniar9/Loan_Predictor)
+
+![image](https://github.com/nmaniar9/neilmaniar.github.io/assets/44175458/9e280163-ae1d-49b7-948f-c50ecc7973ab)
+I use statistical modeling to build a classification model that determines whether a home loan will be approved based on given features. I use exploratory analysis to preprocess the data for logistic regression and determine which features are most important to include in the model. I use Pythons Pandas, Scikit learn, and Matplotlib libraries in my work.
+
 ### [Excel for Business Analytics](https://github.com/nmaniar9/Excel_for_Business)
 
 ![image](https://github.com/nmaniar9/neilmaniar.github.io/assets/44175458/9b3c42c3-65ca-4745-83df-8530d505dad9)
